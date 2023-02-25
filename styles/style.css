@@ -1,0 +1,55 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* header and nav design */
+.g3-architect{
+    font-size: 45px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav ul{
+    display: flex;
+    font-size: 18px;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+}
+.section-title{
+        font-size: 64px;
+}
+.description{
+        font-size: 14px;
+        font-weight: 400;
+}
+.architect{
+    padding: 0 530px;
+    text-align: center;
+}
+.btn-primary{
+     border: 0;
+     background-color: #FD6E0A;
+     color: #FFFFFF;
+     border-radius: 5px;
+     padding: 20px 24px;
+     font-size: 20px;
+     font-weight: 600;
+}
+
+.header{
+    background: rgba(255, 144, 14, 0.1);
+}
+
+
+img{
+    margin-top: 50px;
+    
+}
+.button{
+    margin-left: 680px;
+    margin-right: 400px;
+}
